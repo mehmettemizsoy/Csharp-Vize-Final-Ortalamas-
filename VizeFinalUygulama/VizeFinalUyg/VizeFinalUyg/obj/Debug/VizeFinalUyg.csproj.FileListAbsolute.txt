@@ -1,0 +1,10 @@
+C:\Users\mehme\OneDrive\Masaüstü\VizeFinalUygulama\VizeFinalUyg\VizeFinalUyg\bin\Debug\VizeFinalUyg.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\VizeFinalUygulama\VizeFinalUyg\VizeFinalUyg\bin\Debug\VizeFinalUyg.exe
+C:\Users\mehme\OneDrive\Masaüstü\VizeFinalUygulama\VizeFinalUyg\VizeFinalUyg\bin\Debug\VizeFinalUyg.pdb
+C:\Users\mehme\OneDrive\Masaüstü\VizeFinalUygulama\VizeFinalUyg\VizeFinalUyg\obj\Debug\VizeFinalUyg.csprojAssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\VizeFinalUygulama\VizeFinalUyg\VizeFinalUyg\obj\Debug\VizeFinalUyg.Form1.resources
+C:\Users\mehme\OneDrive\Masaüstü\VizeFinalUygulama\VizeFinalUyg\VizeFinalUyg\obj\Debug\VizeFinalUyg.Properties.Resources.resources
+C:\Users\mehme\OneDrive\Masaüstü\VizeFinalUygulama\VizeFinalUyg\VizeFinalUyg\obj\Debug\VizeFinalUyg.csproj.GenerateResource.cache
+C:\Users\mehme\OneDrive\Masaüstü\VizeFinalUygulama\VizeFinalUyg\VizeFinalUyg\obj\Debug\VizeFinalUyg.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\VizeFinalUygulama\VizeFinalUyg\VizeFinalUyg\obj\Debug\VizeFinalUyg.exe
+C:\Users\mehme\OneDrive\Masaüstü\VizeFinalUygulama\VizeFinalUyg\VizeFinalUyg\obj\Debug\VizeFinalUyg.pdb
